@@ -1,0 +1,12 @@
+S1001, Samsung, Galaxy S 10, Red, Snapdragon 720, 8 GB, 70000
+AP1002, Apple, Iphone 12, Black, Bionic A13 , 4 GB, 140000
+AP1003, Apple, Iphone 13 Pro Max, Silver, Bionic A14, 8 GB, 160000
+S1004, Samsung, Galaxy A 8, Blue, Snapdragon 630, 8 GB, 55000
+S1005, Samsung, S 21, Yellow, Exynos 2100, 16 GB, 80000
+AP1006, Apple, Iphone 11, Grey, Bionic A 12, 8 GB, 140000
+X2007, Xiaomi, Note 10, Gold,  Snapdragon 632, 4 GB, 35000
+X2008, Xiaomi, Note 12, Silver,  Snapdragon 732, 4 GB, 45000
+X2009, Xiaomi, Redmi, Red,  Snapdragon 625, 4 GB, 30000
+L3001, LG, Xperia 12, Black, Snapdragon 800, 16 GB, 66000
+L3002, LG, Xperia 13, Green, Snadragon 825, 16 GB, 80000
+L3003, LG, Xperia 13 lite, Gold, Snadragon 725, 8 GB, 60000
